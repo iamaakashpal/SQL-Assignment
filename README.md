@@ -8,3 +8,4 @@ SQL Assignment from ineuron.ai
 5. Assignment 5 Summited
 6. Assignment 7 Summited
 7. Assignment 6 Summited
+8. Assignment 8 Summited
