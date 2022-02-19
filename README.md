@@ -1,4 +1,4 @@
-# SQL
+# SQL FSDS
 SQL Assignment from ineuron.ai
 
 1. Assignment 1 Summited -- DONE.
